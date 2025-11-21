@@ -1,0 +1,40 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour Virtual
+
+### Title
+tour.name = Casa de Arlen
+
+## Media
+
+### Subtitle
+panorama_A87F0CC7_A279_B7F8_41D3_2041F15CDEE1.subtitle = Tour Casa de Arlen
+
+### Title
+panorama_A874A2AE_A279_F388_41D0_4AE50C3AAFC5.label = 20251029_012428_123
+panorama_A87F00C2_A279_CFFB_41CA_D64DA2D66FE3.label = 20251029_012440_173
+panorama_A87F0CC7_A279_B7F8_41D3_2041F15CDEE1.label = Casa Arlen
+panorama_A87F1F0B_A279_D289_41D9_F69DFE318245.label = 20251029_012451_677
+panorama_A87F45F2_A279_B19B_4195_137D60EC919D.label = 20251029_012457_344
+panorama_A87F57D8_A279_D197_41CB_E516BDD2CBB9.label = 20251029_012446_178
+panorama_A87FA9ED_A279_F189_41CF_2D841C136035.label = 20251029_012434_264
+panorama_A9D0AACF_A279_D389_41E1_A6ADF659935F.label = 20251029_012419_356
+panorama_AF799F0D_A275_2C2C_41E2_AA0F887200B8.label = 20251029_012434_264
+video_B3ECC669_A4AD_7B23_41BC_CEDD9C770E90.label = Velho rindo e tossindo.
+
+## Action
+
+### URL
+LinkBehaviour_B1AF6341_A4B2_E0F1_41AB_931F676E5C4A.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B1B11F61_A4B2_A0B1_41C6_3C43A6EC124F.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B227ADF1_A4BD_6391_41D0_C212883C466E.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B2884851_A4BD_6091_41DC_1A3158657955.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B2B868A1_A4B2_E1B1_41E0_5E74C1D8C0A3.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B3043660_A4D2_A0AF_41A7_5B7A23FCCD62.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B3049660_A4D2_A0AF_4173_FF3A26A5FB68.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B309B65F_A4D2_A091_41CC_E7F98E372956.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B30AC661_A4D2_A0B1_41C5_6DE211B6C300.source = https://www.instagram.com/arlenreels/
+LinkBehaviour_B30FC65F_A4D2_A091_41C2_7F5710067AB0.source = https://www.instagram.com/arlenreels/
